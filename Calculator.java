@@ -13,7 +13,7 @@ public class BasicCalculator {
         // Take input from the user
         Scanner sc = new Scanner(System.in);
   
-        System.out.println("Enter the numbers");
+        System.out.println("Enter Anything");
   
         // take the inputs
         num1 = sc.nextDouble();
